@@ -35,7 +35,6 @@ const TextAnimation = () => {
 
         </motion.section>
     )
-
 }
 
 export default TextAnimation
